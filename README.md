@@ -1,7 +1,7 @@
 # Student Management System (JavaFX)
 
 ## Description
-This JavaFX application is designed for managing student records. It allows users to add, update, delete, and save student data, including their name, ID, course, and grade. The application is tailored for small-scale use, ideal for managing up to 20 students, and features a user-friendly interface.
+This JavaFX application is designed for managing student records. It allows users to add, update, delete, and save student data, including their name, ID, course, and grade. The application is tailored for small-scale use, ideal for managing up to 100 students, and features a user-friendly interface.
 
 ## Features
 - **Add Student**: Add new student records.

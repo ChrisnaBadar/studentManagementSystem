@@ -19,7 +19,7 @@ This JavaFX application is designed for managing student records. It allows user
 ### Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/student-management-system.git
+   [git clone https://github.com/your-username/student-management-system.git](https://github.com/ChrisnaBadar/studentManagementSystem.git)
    ```
 2. Open the project in your favorite Java IDE.
 

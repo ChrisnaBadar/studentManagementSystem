@@ -34,9 +34,3 @@ Run `App.java` to start the application. The main window with a table view of st
 - **Update a Student**: Select a student, view details, modify as needed, and update.
 - **Delete a Student**: Select a student, view details, and choose delete.
 - **Save Data**: Click "Save Data" to manually save to `students.csv`. On closing, the app will prompt to save if there are unsaved changes.
-
-## Contributing
-Contributions to the Student Management System are welcome. Please ensure to update tests as appropriate.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
